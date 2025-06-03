@@ -1,3 +1,8 @@
+.order-history {
+    max-height: 416px;
+    overflow-y: auto;
+}
+
 #profile-update-form .from-control {
     color: #000;
 }
